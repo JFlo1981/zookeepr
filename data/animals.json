@@ -4,71 +4,167 @@
       "id": "0",
       "name": "Spindle",
       "species": "bear",
+<<<<<<< HEAD
       "diet": "omnivore",
       "personalityTraits": ["hungry", "zany", "loving"]
+=======
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "loving"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "1",
       "name": "Terry",
       "species": "gorilla",
+<<<<<<< HEAD
       "diet": "folivore",
       "personalityTraits": ["anxious", "goofy"]
+=======
+      "diet": "omnivore",
+      "personalityTraits": [
+        "anxious",
+        "goofy"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "2",
       "name": "Erica",
       "species": "gorilla",
+<<<<<<< HEAD
       "diet": "folivore",
       "personalityTraits": ["quirky", "rash"]
+=======
+      "diet": "omnivore",
+      "personalityTraits": [
+        "quirky",
+        "rash"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "3",
       "name": "Noel",
       "species": "bear",
+<<<<<<< HEAD
       "diet": "omnivore",
       "personalityTraits": ["impish", "sassy", "brave"]
+=======
+      "diet": "carnivore",
+      "personalityTraits": [
+        "impish",
+        "sassy",
+        "brave"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "4",
       "name": "Coco",
       "species": "penguin",
+<<<<<<< HEAD
       "diet": "piscivore",
       "personalityTraits": ["loving", "goofy"]
+=======
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving",
+        "goofy"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "5",
       "name": "Marcy",
       "species": "ostrich",
+<<<<<<< HEAD
       "diet": "omnivore",
       "personalityTraits": ["hungry", "goofy"]
+=======
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "6",
       "name": "Bodhi",
       "species": "Doggo",
+<<<<<<< HEAD
       "diet": "omnivore",
       "personalityTraits": ["zany"]
+=======
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "7",
       "name": "Cassie",
       "species": "Doggo",
+<<<<<<< HEAD
       "diet": "omnivore",
       "personalityTraits": ["hungry", "zany", "goofy"]
+=======
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "goofy"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "8",
       "name": "Roxy",
       "species": "Quokka",
       "diet": "herbivore",
+<<<<<<< HEAD
       "personalityTraits": ["loving"]
+=======
+      "personalityTraits": [
+        "loving"
+      ]
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     },
     {
       "id": "9",
       "name": "Tamara",
       "species": "Tiger",
       "diet": "carnivore",
+<<<<<<< HEAD
       "personalityTraits": ["hungry"]
+=======
+      "personalityTraits": [
+        "hungry"
+      ]
+    },
+    {
+      "name": "Sufjan",
+      "species": "Koala Bear",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
     }
   ]
 }

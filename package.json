@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "main",
+=======
+  "name": "zookeepr",
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
     "test": "jest",
     "start": "node server.js"
   },
@@ -12,5 +17,23 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFlo1981/zookeepr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFlo1981/zookeepr/issues"
+  },
+  "homepage": "https://github.com/JFlo1981/zookeepr#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+>>>>>>> 437268f40e4b8df1ed17cc7b370b386f1af05d9e
   }
 }
