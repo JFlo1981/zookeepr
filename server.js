@@ -39,6 +39,7 @@ function filterByQuery(query, animalsArray) {
     if (query.diet) {
       filteredResults = filteredResults.filter(animal => animal.diet === query.diet);
     }
+    
     if (query.species) {
       filteredResults = filteredResults.filter(animal => animal.species === query.species);
     }
